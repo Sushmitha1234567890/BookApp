@@ -26,7 +26,7 @@ export class ListBookComponent implements OnInit {
 
   title:string = "";
 
-  // authors = ["janitha","yash","dayakar"]
+  // authors = ["sushmitha","vineeth","varma"]
   authors:any;
 
   getBooks(){
